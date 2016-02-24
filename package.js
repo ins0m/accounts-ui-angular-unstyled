@@ -1,7 +1,7 @@
 Package.describe({
   name: "ins0m:accounts-ui-angular-unstyled",
   summary: "AngularJS wrapper for Meteor's Account-UI package",
-  version: "0.0.1",
+  version: "0.0.2",
   documentation: 'README.md',
   git: "https://github.com/ins0m/accounts-ui-angular-unstyled/"
 });
