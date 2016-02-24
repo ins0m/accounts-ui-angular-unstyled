@@ -1,5 +1,5 @@
 # accounts-ui-angular-unstyled
-AngularJS wrapper for Meteor's Account-UI package
+AngularJS wrapper for Meteor's Account-UI-unstyled package
 
 # How to use?
 - Make sure you have the `angular` package in your root account.
